@@ -17,6 +17,6 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Error quos quaerat nequ
 
 [Documentación](./docs/tareaXX.md)
 
-[Publicación](https://24-25-lmsgi.github.io/LM-plantilla-tarea/)
+[Publicación](https://24-25-lmsgi.github.io/LM-plantilla-tarea-con-documentacion/)
 
 
