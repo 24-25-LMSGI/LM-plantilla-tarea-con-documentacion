@@ -1,0 +1,25 @@
+h1{
+    border: 10px solid black;
+    text-align: center;
+}
+h1:hover {
+    border-color: red;
+    transition: 1s;
+    transform: rotate(360deg) scale(1.2);
+}
+img {
+    filter:brightness(0.5);
+    transition: 1s ease-in-out;
+}
+img:hover {
+    transition: 1s ease-in-out;
+    filter:brightness(1);
+}
+p {
+    transition: 1s ease-in-out;
+    filter: blur(1.2px);
+}
+p:hover {
+    transition: 1s ease-in-out;
+    filter: blur(0)
+}
